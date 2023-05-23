@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Raphael Abreu</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio" >Hello, my name is Raphael Abreu.
+\n\nI love to code, play guitar, stay with my fiance, play with my neighbors\' cats and read some intresting books.
+\n\nAs a Computer Engineering student, I build some devices that involve both hardware and software to do something interesting, like once I made an app to remotely monitor and water your plants.
+\n\nBeing in nature is my passion and I really appreciate good times barefoot in the woods or even on the grass.
+\n\nFortunately, I like cooking and best of all, I love my food, so I have no problem spending hours preparing everything I like.\n</string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="done">Done</string>
+</resources>
