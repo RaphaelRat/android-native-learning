@@ -15,15 +15,21 @@ You can watch a demonstration of the app in action by expanding the 'Video' sect
 <details>
 <summary> Video</summary>  
   
-https://github.com/RaphaelRat/android-native-learning/assets/89277770/44048df7-b798-4f54-94ec-0dbb22efc743
+
+ 
+
+https://github.com/RaphaelRat/android-native-learning/assets/89277770/46bf00ae-1c69-486f-8d8c-e3c6ae9432c9
+
+
+
   
 </details>
 
 ## Screenshots
 
 <div>
-  <img src="https://github.com/RaphaelRat/android-native-learning/assets/89277770/1e6ea69e-8d2c-4495-8b5e-c67d267d8046" alt="Screenshot 1" width="300" height="600" style="margin-right: 32px;">
-  <img src="https://github.com/RaphaelRat/android-native-learning/assets/89277770/1a4aa80b-6ad1-4333-b86a-da99756f48df" alt="Screenshot 2" width="300" height="600">
+  <img src="../assets/dice-roller-print1.png" alt="Screenshot 1" width="300" height="600" style="margin-right: 32px;">
+  <img src="../assets/dice-roller-print2.png" alt="Screenshot 2" width="300" height="600">
 </div> 
 
 
