@@ -17,7 +17,7 @@ You can watch a demonstration of the app in action by expanding the 'Video' sect
 <details>
 <summary> Video</summary>  
  
-https://github.com/RaphaelRat/android-native-learning/assets/89277770/6f6ef77b-15fc-44f7-b3a7-f220d8f5531a
+https://github.com/RaphaelRat/android-native-learning/assets/89277770/c672c9b3-a1d4-42bf-a72d-359d8142c5bf
 
 </details>
  
