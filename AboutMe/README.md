@@ -16,16 +16,16 @@ You can watch a demonstration of the app in action by expanding the 'Video' sect
 
 <details>
 <summary> Video</summary>  
-  
-https://github.com/RaphaelRat/android-native-learning/assets/89277770/5bf6d846-00eb-43f3-aef2-8ba48d9007e0
-  
+ 
+https://github.com/RaphaelRat/android-native-learning/assets/89277770/6f6ef77b-15fc-44f7-b3a7-f220d8f5531a
+
 </details>
  
 
 ## Screenshots
 <div>
-  <img src="https://github.com/RaphaelRat/android-native-learning/assets/89277770/89304968-9626-4928-b0a4-61490a727fb9" alt="Screenshot 1" width="300" height="600" style="margin-right: 32px;">
-  <img src="https://github.com/RaphaelRat/android-native-learning/assets/89277770/704e3b69-5478-41a3-9edd-27b4a794cf40" alt="Screenshot 2" width="300" height="600">
+  <img src="../assets/about-me-print1.png" alt="Screenshot 1" width="300" height="600" style="margin-right: 32px;">
+  <img src="../assets/about-me-print2.png" alt="Screenshot 2" width="300" height="600">
 </div> 
 
 ## Getting Started
